@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Lista de Ponteiros
+
 void calcular_media(int *A, int *B) {
     int menor, maior;
     
